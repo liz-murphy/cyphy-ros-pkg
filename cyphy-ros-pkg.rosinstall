@@ -18,6 +18,6 @@
     version: default
 - bzr:
     local-name: cyphy-legacy
-    uri: http://bazaar.launchpad.net/~cyphylab/cyphy/bonsai/files 
+    uri: http://launchpad.net/cyphy 
     meta:
         repo-name: cyphy-ros-pkg
