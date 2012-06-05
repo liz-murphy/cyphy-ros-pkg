@@ -1,29 +1,29 @@
 - hg:
-    local-name: cyphy-vis-slam
-    uri: https://cyphy-vis-slam.googlecode.com/hg/cyphy-vis-slam 
+    local-name: cyphy_vis_slam
+    uri: https://cyphy-vis-slam.googlecode.com/hg/cyphy_vis_slam 
     meta:
-        repo-name: cyphy-ros-pkg
+        repo-name: cyphy_ros_pkg
     version: default
 - hg:
-    local-name: cyphy-elas-ros
+    local-name: cyphy_elas_ros
     uri: https://cyphy-elas-ros.googlecode.com/hg/ 
     meta:
-        repo-name: cyphy-ros-pkg
+        repo-name: cyphy_ros_pkg
     version: default
 - hg:
-    local-name: cyphy-people-mapping
+    local-name: cyphy_people_mapping
     uri: https://cyphy-people-mapping.googlecode.com/hg/ 
     meta:
-        repo-name: cyphy-ros-pkg
+        repo-name: cyphy_ros_pkg
     version: default
 - svn:
     local-name: ratslam_ros
     uri: https://ratslam.googlecode.com/svn/branches/ratslam_ros/
     meta:
-        repo-name: cyphy-ros-pkg
+        repo-name: cyphy_ros_pkg
     version: default
 - bzr:
-    local-name: cyphy-legacy
+    local-name: cyphy_legacy
     uri: http://launchpad.net/cyphy 
     meta:
-        repo-name: cyphy-ros-pkg
+        repo-name: cyphy_ros_pkg
