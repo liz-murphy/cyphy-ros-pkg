@@ -1,6 +1,6 @@
 - hg:
     local-name: cyphy-vis-slam
-    uri: https://cyphy-vis-slam.googlecode.com/hg/ 
+    uri: https://cyphy-vis-slam.googlecode.com/hg/cyphy-vis-slam 
     meta:
         repo-name: cyphy-ros-pkg
     version: default
