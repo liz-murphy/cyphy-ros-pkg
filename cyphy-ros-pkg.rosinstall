@@ -6,13 +6,13 @@
     version: default
 - hg:
     local-name: cyphy_elas_ros
-    uri: https://cyphy-elas-ros.googlecode.com/hg/ 
+    uri: https://cyphy-elas-ros.googlecode.com/hg/cyphy_elas_ros 
     meta:
         repo-name: cyphy_ros_pkg
     version: default
 - hg:
     local-name: cyphy_people_mapping
-    uri: https://cyphy-people-mapping.googlecode.com/hg/ 
+    uri: https://cyphy-people-mapping.googlecode.com/hg/cyphy_people_mapping 
     meta:
         repo-name: cyphy_ros_pkg
     version: default
