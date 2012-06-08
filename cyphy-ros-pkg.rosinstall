@@ -1,3 +1,8 @@
+- hg: 
+    local-name: cyphy_ros_pkg
+    uri: https://cyphy-ros-pkg.googlecode.com/hg/cyphy_ros_pkg
+    meta:
+        repo_name: cyphy_ros_pkg
 - hg:
     local-name: cyphy_vis_slam
     uri: https://cyphy-vis-slam.googlecode.com/hg/cyphy_vis_slam 
