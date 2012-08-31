@@ -11,7 +11,7 @@
     version: default
 - hg:
     local-name: cyphy_elas_ros
-    uri: https://cyphy-elas-ros.googlecode.com/hg/cyphy_elas_ros 
+    uri: https://code.google.com/p/cyphy-elas-ros/
     meta:
         repo-name: cyphy_ros_pkg
     version: default
